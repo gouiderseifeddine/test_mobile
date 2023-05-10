@@ -15,7 +15,7 @@ A test Flutter project.
 ## Application interfaces
 
 
-<img src = "./assets/images/missions.png" width=300 height=600> <img src = "./assets/images/profil.png" width=300 height=600><img src = "./assets/images/performance.png" width=300 height=600>
+<img src = "./assets/images/missions.png" width=250 height=600> <img src = "./assets/images/profil.png" width=250 height=600><img src = "./assets/images/performance.png" width=250 height=600>
 
 
 
